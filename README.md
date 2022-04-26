@@ -22,8 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 #### Analysis Challenge Assignments
 [ACA1]
-[ACA2]
-[ACA3]
+[ACA2](https://github.com/jl5702/HUDK4051/blob/main/Mini%20LA%20assignment2%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
+[ACA3](https://github.com/jl5702/HUDK4051/blob/main/Mini%20LA%20assignment3%20-%20Jingyuan%2C%20Siyu%2C%20Zhen.ipynb)
+
+### Final project
+[improvement plan]
 
 #
 ### HUDK4050
