@@ -10,6 +10,22 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #
+
+### HUDK4051
+
+### Individual Coding Exercises
+[ICE1](https://github.com/jl5702/HUDK4051/blob/main/ICE1.ipynb)
+[ICE2](https://github.com/jl5702/HUDK4051/blob/main/ICE2.ipynb)
+[ICE3](https://github.com/jl5702/HUDK4051/blob/main/ICE3.ipynb)
+[ICE4](https://github.com/jl5702/HUDK4051/blob/main/ICE4.ipynb)
+[ICE5](https://github.com/jl5702/HUDK4051/blob/main/ICE5.ipynb)
+
+#### Analysis Challenge Assignments
+[ACA1]
+[ACA2]
+[ACA3]
+
+#
 ### HUDK4050
  
 #### Individual Coding Exercises
